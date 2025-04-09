@@ -1,7 +1,3 @@
-
-# Instalar bibliotecas se necessário (descomente caso dê erro)
-# !pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
